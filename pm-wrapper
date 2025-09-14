@@ -1,0 +1,9 @@
+#!/bin/bash
+# Wrapper script to run Process Manager with virtual environment
+
+# Get the directory of this script
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+# Activate virtual environment and run pm
+source "$DIR/venv/bin/activate"
+python "$DIR/pm" "$@"

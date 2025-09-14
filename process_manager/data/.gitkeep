@@ -1,0 +1,2 @@
+# Tento soubor zajišťuje, že adresář data bude součástí git repository
+# i když je prázdný (kromě databáze, která je v .gitignore)

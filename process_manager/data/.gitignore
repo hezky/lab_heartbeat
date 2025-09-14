@@ -1,0 +1,12 @@
+# Ignorovat databázové soubory
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Ignorovat záložní soubory
+*.bak
+*.backup
+
+# Ale ponechat adresář v gitu pomocí .gitkeep
+!.gitkeep
