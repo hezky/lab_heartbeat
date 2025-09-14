@@ -1,5 +1,7 @@
 # Universal Process Manager: Komplexní technická analýza a implementace
 
+> ⚠️ **Upozornění**: Tento článek popisuje aktuální stav aplikace k datu vytvoření. Implementační detaily a ukázky kódu se mohou v průběhu času měnit s vývojem projektu. Důležité jsou především představené koncepty, architektonické principy a myšlenky, které zůstávají platné bez ohledu na konkrétní implementaci.
+
 ## Úvod do problematiky správy procesů
 
 V moderním světě softwarového inženýrství představuje efektivní správa procesů jeden z klíčových pilířů stabilních a škálovatelných systémů. Universal Process Manager, známý také jako Lab Heartbeat, představuje inovativní přístup k řešení této komplexní problematiky. Tento článek poskytuje detailní technickou analýzu použitých technologií, architektonických rozhodnutí a implementačních metod tohoto systému.

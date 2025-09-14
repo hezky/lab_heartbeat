@@ -1,5 +1,7 @@
 # Universal Process Manager: Comprehensive Technical Analysis and Implementation
 
+> ⚠️ **Notice**: This article describes the current state of the application at the time of writing. Implementation details and code examples may change over time as the project evolves. What matters most are the presented concepts, architectural principles, and ideas, which remain valid regardless of specific implementation.
+
 ## Introduction to Process Management Challenges
 
 In the modern world of software engineering, efficient process management represents one of the key pillars of stable and scalable systems. Universal Process Manager, also known as Lab Heartbeat, presents an innovative approach to solving this complex problem. This article provides a detailed technical analysis of the technologies used, architectural decisions, and implementation methods of this system.
